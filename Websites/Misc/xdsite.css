@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1440px;
+    height: 125px;
+    background-color: #060747;
+}
+
+.logo {
+    width: 212px;
+    height: 35px;
+    text-align: center;
+    position: absolute;
+    left: 48px;
+    top: 45px;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffce00;
+}
+
+.home {
+    width: 55px;
+    height: 20px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    left: 1074px;
+    top: 55px;
+    color: #FFCE00;
+}
+
+.homebar {
+    width: 46px;
+    height: 5px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 1078px;
+    top: 75px;
+}
+
+body {
+    background-color: #060747;
+}
+
+.about {
+    width: 55px;
+    height: 20px;
+    font-weight: 400;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    position: absolute;
+    left: 1173px;
+    top: 55px;
+    color: #ffce00;
+}
+
+.contact {
+    width: 71px;
+    height: 20px;
+    font-weight: 400;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    position: absolute;
+    left: 1272px;
+    top: 55px;
+    color: #ffce00;
+}
+
+.meetjoe {
+    width: 284px;
+    height: 74px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 237px;
+    left: 321px;
+    color: #ffce00;
+}
+
+.smoljoe {
+    width: 284px;
+    height: 133px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 365px;
+    left: 321px;
+    color: #ffffff;
+}
+
+.knowmore {
+    width: 150px;
+    height: 19px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 560px;
+    left: 388px;
+    color: #ffffff;
+}
+
+.button {
+    width: 240px;
+    height: 40px;
+    position: absolute;
+    top: 552px;
+    left: 343px;
+    box-sizing: border-box;
+    border: 2px solid #ffce00;
+    border-radius: 10px;
+}
+
+.arrow {
+    position: absolute;
+    width: 160.48px;
+    height: 156.38px;
+    left: 625px;
+    top: 210px;
+    transform: rotate(-45deg);
+}
+
+.joe {
+    position: absolute;
+    width: 612px;
+    height: 408px;
+    left: 506px;
+    top: 201px;
+}
